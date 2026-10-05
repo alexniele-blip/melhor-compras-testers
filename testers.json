@@ -1,5 +1,10 @@
 {
   "betaEnabled": true,
   "maxOfflineHours": 168,
-  "authorizedDevices": ["MC-9KJH-ZSZ3-P8UL", "MC-RPED-ZX76-PCHW", "MC-3M7H-GBHF-7UNF", "MC-LD82-QTC4-75VR"]
+  "authorizedDevices": [
+    "MC-9KJH-ZSZ3-P8UL",
+    "MC-RPED-ZX76-PCHW",
+    "MC-3M7H-GBHF-7UNF",
+    "MC-LD82-QTC4-75VR"
+  ]
 }
