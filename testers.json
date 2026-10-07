@@ -3,6 +3,8 @@
   "maxOfflineHours": 168,
   "authorizedDevices": [
     "MC-3M7H-GBHF-7UNF",
-    "MC-9XMQ-DPJX-B2RA", "MC-9WSL-MCXR-4MFA", "MC-F8LW-X4S8-GADK"
+    "MC-9XMQ-DPJX-B2RA", 
+    "MC-9WSL-MCXR-4MFA", 
+    "MC-F8LW-X4S8-GADK"
   ]
 }
