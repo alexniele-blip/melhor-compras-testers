@@ -2,10 +2,10 @@
   "betaEnabled": true,
   "maxOfflineHours": 168,
   "authorizedDevices": [
-    "MC-MWDW-EJ29-2BR7",
     "MC-9XMQ-DPJX-B2RA", 
     "MC-ZKQJ-DUSC-GR88", 
     "MC-ZRQ2-6MHQ-3VB9",
-    "MC-4XEM-NCGT-NEZK"
+    "MC-4XEM-NCGT-NEZK",
+    "MC-MWDW-EJ29-2BR7"
   ]
 }
